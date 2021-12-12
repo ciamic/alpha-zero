@@ -1,4 +1,4 @@
-# alphazero
+# AlphaZero
 Implementation of the [AlphaZero](https://arxiv.org/pdf/1712.01815v1.pdf) algorithm.  
  
 ## Introduction
